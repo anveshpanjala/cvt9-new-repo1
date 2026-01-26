@@ -5,3 +5,4 @@ git push --mirror
 ssh authentication
 testing with https url
 changed to ssh url  
+using windows as git server
